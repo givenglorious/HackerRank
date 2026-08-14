@@ -6,4 +6,3 @@ for _ in range(n):
     neww.add(negara)
 
 print(len(neww))
-z

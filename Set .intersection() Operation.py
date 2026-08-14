@@ -1,4 +1,4 @@
-# Enter your code here. Read input from STDIN. Print output to STDOUT
+#Intersection → yang sama
 n = int(input())
 nn = set(map(int, input().split()))
 n2 = int(input())

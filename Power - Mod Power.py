@@ -1,0 +1,7 @@
+num = int(input())
+eks = int(input())
+mod = int(input())
+pows = pow(num,eks)
+mods = pow(num,eks,mod)
+print(pows)
+print(mods)

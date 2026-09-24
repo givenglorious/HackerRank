@@ -4,7 +4,7 @@
 #include <stdlib.h>
 //Complete the following function.
 
-
+// Only Test Case
 void calculate_the_maximum(int n, int k) {
   //Write your code here.
   int a,o,x;
